@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="https://github.com/larissadesp/update/blob/main/features/feature_1.0.0.202406071242.jar" id="feature.to.install" version="1.0.0.202406071242"/>
+   <feature url="features/feature_1.0.0.202406071242.jar" id="feature.to.install" version="1.0.0.202406071242"/>
 </site>
-
-<!--features/feature_1.0.0.202406071242.jar-->
